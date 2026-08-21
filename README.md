@@ -1,3 +1,4 @@
+https://elijahbonny23-byte.github.io/tutorial-centre-dashboard/
 Excellent Mind Tutorial Centre — Fee & Payment Dashboard
 
 A self-contained student management dashboard built for a private tutorial centre, covering student enrollment, fee tracking, payments, expenses, and printable receipts.
